@@ -22,3 +22,14 @@ console.log("Maurice".length + "Collier".length);
 
 // 8
 console.log("Avengers: Endgame"[16]);
+
+// Bonus 1
+console.log("\\");
+
+// Bonus 2
+console.log(5**4-9);
+
+// Bonus 3
+console.log(("I".length % "Am".length) - ("Iron".length % "Man".length));
+
+
